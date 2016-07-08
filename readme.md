@@ -16,3 +16,9 @@
 
 * `git commit -m '说明' -a`提交全部文件的说明
 * `git commit -m '说明' -readme.md`提交单个文件的说明
+
+* `git log --pretty=oneline`将历史提交版本在一行显示出来
+* `git reset --hard HEAD~1`或者`git reset --hard HEAD^`进行版本的回退
+
+* `git remote add origin http://github.com/Lee908105576/XXXX.git`添加github上的版本库地址
+* `git push -u origin master`提交到远程版本库并和版本库关联在一起
