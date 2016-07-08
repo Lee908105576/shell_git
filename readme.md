@@ -23,4 +23,7 @@
 * `git remote add origin http://github.com/Lee908105576/XXXX.git`添加github上的版本库地址
 * `git push -u origin master`提交到远程版本库并和版本库关联在一起
 
-<!-- fenzhi -->
+* `git branch dev`创建dev分支，是从master分出来的(里面的内容相同)
+* `git checkout dev`切换到dev分支
+* `git merge dev`在当前的分支上合并dev分支
+* `git branch -d dev`删除dev分支
