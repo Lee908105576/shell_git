@@ -22,3 +22,5 @@
 
 * `git remote add origin http://github.com/Lee908105576/XXXX.git`添加github上的版本库地址
 * `git push -u origin master`提交到远程版本库并和版本库关联在一起
+
+<!-- fenzhi -->
