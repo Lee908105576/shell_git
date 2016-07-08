@@ -27,3 +27,4 @@
 * `git checkout dev`切换到dev分支
 * `git merge dev`在当前的分支上合并dev分支
 * `git branch -d dev`删除dev分支
+* `git branch`查看现在有哪些分支
